@@ -31,6 +31,10 @@ ai.captions();
 10. When your page loads, it will silently cause an update of the page source to reflect the labels and captions fetched from the Aify API.
 11. Voila! Your website is more accessible to people with visual challenges now! :slight_smile:
 
+## Already deployed usage sample
+
+You can check out - https://aifyjs.github.io for an already deployed sample of the library in action! 
+
 ## Errors? Problems?
 
 Shoot as an email at - thecodefoundation@gmail.com
