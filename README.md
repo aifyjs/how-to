@@ -10,7 +10,7 @@ In the simplest terms, aify.js is a library which when embedded on your web page
 1.5 After account creation, Login to your account. 
 2. On the left menu, Click on Websites > Add
 3. Add your website, enter any name for your website and enter the root URL of the site.
-4. Ensure that your website has a publicly accessible sitemap file, preferably at www.example.com/sitemap.xml location. Our Aify Crawler will use this sitemap to crawl your website.
+4. Ensure that your website has a publicly accessible sitemap file, preferably at [/sitemap.xml](www.example.com/sitemap.xml) location. Our Aify Crawler will use this sitemap to crawl your website.
 5. Wait for 10-15 mins for the Aify Crawler to visit your website and work its magic in the background.
 6. On your web page, include the following line to import the AifyJS package into your application - 
 ```
@@ -33,7 +33,7 @@ ai.captions();
 
 ## Already deployed usage sample
 
-You can check out - https://aifyjs.github.io for an already deployed sample of the library in action! 
+You can check out - [aifyjs.github.io](https://aifyjs.github.io) for an already deployed sample of the library in action! 
 
 ## Errors? Problems?
 
@@ -41,8 +41,8 @@ Shoot as an email at - thecodefoundation@gmail.com
 
 ## Team - 
 
-Anubhav (xprilion@gmail.com)
-Ritwik (ritwikraha.nsec@gmail.com)
-Ankit (ankitnsec98@gmail.com)
-Ayush (mein2work@gmail.com)
-Debroop (debroop42@gmail.com)
+- Anubhav (xprilion@gmail.com)
+- Ritwik (ritwikraha.nsec@gmail.com)
+- Ankit (ankitnsec98@gmail.com)
+- Ayush (mein2work@gmail.com)
+- Debroop (debroop42@gmail.com)
