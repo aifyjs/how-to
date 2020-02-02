@@ -21,7 +21,7 @@ To activate the voice UX, you either need to double tap twice on the screen, or 
 
 You can use the following voice UX commands -
 | Intent        | Action           | Sample utterance  |
-|:------------- |:-------------| :-----: |
+| ------------- | ---------------- | ----------------- |
 | Describe Page      | Gives a description of the page and number of links, images and forms in it. | "describe this page" |
 | Describe Element  | Gives a description of the currently focused element.      |   "describe" |
 | Page Summary | Reads an auto generated summary of the page. Useful for pages with lots of text.       |    "page summary" |
