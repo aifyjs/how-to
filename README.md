@@ -20,6 +20,7 @@ There are two ways you can use aify.js -
 To activate the voice UX, you either need to double tap twice on the screen, or press the `F` button thrice in succession. There are only two buttons on the keyboard with a notch on them, which is why `F` has been used (Idea credit [@ani4aniket](https://github.com/ani4aniket)). We might use the other key, `J` for other features in the future.
 
 You can use the following voice UX commands -
+
 | Intent        | Action           | Sample utterance  |
 | ------------- | ---------------- | ----------------- |
 | Describe Page      | Gives a description of the page and number of links, images and forms in it. | "describe this page" |
