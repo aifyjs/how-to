@@ -17,7 +17,7 @@ There are two ways you can use aify.js -
 2. Get yourself our browser extension. [Download it here!](https://github.com/aifyjs/extension)
 
 ## Voice UX Guide 
-To activate the voice UX, you either need to double tap twice on the screen, or press the `F` button thrice in succession. There are only two buttons on the keyboard with a notch on them, which is why `F` has been used (Idea credit [@ani4aniket](https://github.com/ani4aniket)). We might use the other key, `J` for other features in the future.
+To activate the voice UX, you either need to double tap twice on the screen, or press the `F` button thrice in succession. There are only two buttons on the keyboard with a notch on them, which is why `F` has been used (key choice suggestion credit [@ani4aniket](https://github.com/ani4aniket)). We might use the other key, `J` for other features in the future.
 
 You can use the following voice UX commands -
 
